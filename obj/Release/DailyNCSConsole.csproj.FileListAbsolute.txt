@@ -1,0 +1,9 @@
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Release\DailyNCSConsole.exe.config
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Release\DailyNCSConsole.exe
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Release\DailyNCSConsole.pdb
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Release\EPPlus.dll
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Release\Holidays.dll
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Release\EPPlus.xml
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Release\Holidays.xml
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\obj\Release\DailyNCSConsole.exe
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\obj\Release\DailyNCSConsole.pdb

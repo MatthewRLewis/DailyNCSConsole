@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DailyNCSConsole" GeneratedClassName="NCSSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PrinterTarget" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">170000.00</Value>
+    </Setting>
+    <Setting Name="CopierTarget" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">300000.00</Value>
+    </Setting>
+    <Setting Name="QBSPerc" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.516666</Value>
+    </Setting>
+    <Setting Name="FromEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">noreply@qbsi-xerox.com</Value>
+    </Setting>
+    <Setting Name="SMTPServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.8.1.34</Value>
+    </Setting>
+    <Setting Name="ToEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nwgdailyncs@qbsi-xerox.com</Value>
+    </Setting>
+    <Setting Name="SQLConString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=NWGSQL08;Initial Catalog=USQLTransitory;User ID=NWGUSQL;password=Silver99;Connection Timeout=3000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

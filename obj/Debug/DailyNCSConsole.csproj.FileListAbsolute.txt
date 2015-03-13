@@ -1,0 +1,10 @@
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Debug\DailyNCSConsole.exe
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Debug\DailyNCSConsole.pdb
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Debug\EPPlus.dll
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Debug\EPPlus.xml
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\obj\Debug\DailyNCSConsole.csprojResolveAssemblyReference.cache
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\obj\Debug\DailyNCSConsole.exe
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\obj\Debug\DailyNCSConsole.pdb
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Debug\DailyNCSConsole.exe.config
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Debug\Holidays.dll
+c:\users\mlewis\documents\visual studio 2012\Projects\DailyNCSConsole\DailyNCSConsole\bin\Debug\Holidays.xml
